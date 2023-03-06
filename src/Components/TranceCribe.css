@@ -1,0 +1,28 @@
+
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+}
+.box{
+    height: 75vh;
+    width: 49%;
+    margin: auto;
+    background-color: aqua;
+    padding: 0.5rem 0.5rem;
+    overflow-y: scroll;
+    box-shadow: 5px 0px 5px 2px rgb(32, 36, 36);
+}
+span{
+    font-size: 3rem;
+}
+p{
+    font-size: 1rem;
+}
+h1{
+    text-align: center;
+}
+h2{
+    margin-top: -0.5rem;
+}
